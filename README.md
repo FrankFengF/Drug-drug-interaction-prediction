@@ -1,11 +1,11 @@
 # Drug-drug-interaction-prediction
 Developed a similarity-based machine learning framework for drug–drug interaction prediction, published in the Journal of Biomedical Informatics (DOI: 10.1016/j.jbi.2025.104923).
 
-## Workflow Overview
-Below shows the graphic abstract of the overall workflow:
 
 <p align="center">
   <img src="Workflow.jpg" width="500" alt="Workflow">
+    <br/>
+  <em>Overall Workflow</em>
 </p>
 
 
